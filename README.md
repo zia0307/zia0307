@@ -41,15 +41,10 @@ $ cat interests.txt
 **Tools & Environments**
 ![tools](https://skillicons.dev/icons?i=linux,git,github,neovim,arch,ubuntu)
 
-**Currently learning**
-
-![Rust](https://skillicons.dev/icons?i=rust)
-
 ---
 
 ## Currently Learning
 
-- **Rust**
 - **Computer Networks** 
 - **Operating Systems**
 ---
