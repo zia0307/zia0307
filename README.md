@@ -30,6 +30,7 @@ $ cat interests.txt
 | project | description | stack | status |
 |--------|-------------|-------|--------|
 | **[BidCrafter](https://github.com/zia0307/BidCrafter-Auction-Engine)** | auction engine with real-time bidding logic | Python | live |
+|**[Multi-Container Runtime](https://github.com/zia0307/OS-Jackfruit)**| A container runtime from scratch in C | C | live |
 | **tcp chat server** | multi-room chat server over raw TCP | Rust | planned |
 
 ---
