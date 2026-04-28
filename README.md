@@ -2,7 +2,7 @@
 
 # Hi, I'm Zia :D
 
-**B.Tech CSE '28/Language enthusiast/FOSS believer**
+**B.Tech CSE '28 - Linguist - FOSS enthusiast**
 
 *"Free software is a matter of liberty, not price."* — RMS
 </div>
@@ -13,7 +13,7 @@
 
 ```bash
 $ whoami
-zia — second year CSE undergrad, generalist, FOSS enthusiast
+second year Computer Science and Engineering undergrad
 
 $ cat interests.txt
 → computer networks & operating systems
