@@ -13,7 +13,7 @@
 
 ```bash
 $ whoami
-second year Computer Science and Engineering undergrad
+third-year Computer Science and Engineering undergrad
 
 $ cat interests.txt
 → computer networks & operating systems
