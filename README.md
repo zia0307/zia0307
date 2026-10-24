@@ -25,16 +25,6 @@ $ cat interests.txt
 
 ---
 
-## What I'm Building
-
-| project | description | stack | status |
-|--------|-------------|-------|--------|
-| **[BidCrafter](https://github.com/zia0307/BidCrafter-Auction-Engine)** | auction engine with real-time bidding logic | Python | live |
-|**[Multi-Container Runtime](https://github.com/zia0307/OS-Jackfruit)**| A container runtime from scratch in C | C | live |
-| **tcp chat server** | multi-room chat server over raw TCP | Rust | planned |
-
----
-
 ## Tech Stack
 
 **Languages**
@@ -42,12 +32,6 @@ $ cat interests.txt
 **Tools & Environments**
 ![tools](https://skillicons.dev/icons?i=linux,git,github,neovim,arch,ubuntu)
 
----
-
-## Currently Learning
-
-- **Computer Networks** 
-- **Operating Systems**
 ---
 
 ## Reach Me
